@@ -6,12 +6,10 @@ Abdul-Hafiz Aderemi
 Israel Israel
 
 # Overview
-Sodashy is a sh-compatible command language interpreter that executes commands read from the standard input or from a file.
+Sodash is a sh-compatible command language interpreter that executes commands read from the standard input or from a file. Sodash is a simple shell unix command interpreter that is part of the alx low level programming module at Alx School and is intended to emulate the basics sh shell
 
 # Invocation
-Usage: Sodash Sodash is started with the standard input connected to the terminal. To start, compile all .c located in this repository by using this command:
-
-gcc -Wall -Werror -Wextra -pedantic *.c -o sodash ./sodash Sodash is allowed to be invoked interactively and non-interactively. If sodash is invoked with standard input not connected to a terminal, it reads and executes received commands in order.
+Usage: Sodash Sodash is started with the standard input connected to the terminal. To start, compile all .c located in this repository by using this command: gcc -Wall -Werror -Wextra -pedantic *.c -o sodash ./sodash Sodash is allowed to be invoked interactively and non-interactively. If sodash is invoked with standard input not connected to a terminal, it reads and executes received commands in order.
 
 ## **Copyright - Plagiarism**
 You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
